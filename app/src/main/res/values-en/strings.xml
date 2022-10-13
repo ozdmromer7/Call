@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidWidgets</string>
+    <string name="textview">Hello World</string>
+</resources>
