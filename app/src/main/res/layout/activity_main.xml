@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/call"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_marginBottom="150dp"
@@ -18,10 +18,11 @@
 
     <EditText
         android:id="@+id/editTextPhone"
-        android:layout_width="wrap_content"
+        android:layout_width="235dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="200dp"
         android:ems="10"
+        android:hint="Enter Phone Number with 0"
         android:inputType="phone"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
